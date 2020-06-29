@@ -25,5 +25,15 @@ Now open jenkins using the url as your container's ip address and port number 80
 172.17.0.2:8080
 Jenkins home screen will appear. 
 For initial password use cat command followed by the location provided in home page of jenkins<br>
-![b](https://user-images.githubusercontent.com/64701398/86029799-415db900-ba51-11ea-91b6-87e47b8ae0b9.png)<br>
+![b](https://user-images.githubusercontent.com/64701398/86029799-415db900-ba51-11ea-91b6-87e47b8ae0b9.png) <br>
+
+Step 2 : Creating JOB1 in jenkins to pull the Github repo automatically when some developers push repo to Github.
+
+![t](https://user-images.githubusercontent.com/64701398/86030835-a1089400-ba52-11ea-8ad2-89066f521862.png) <br>
+
+![t1](https://user-images.githubusercontent.com/64701398/86030969-d614e680-ba52-11ea-824e-bdd57a1051bf.png) <br>
+
+Step 3: Creating job2 ie looking at the code or program file, Jenkins should automatically start the respective language interpreter install image container to deploy code.
+
+
 
